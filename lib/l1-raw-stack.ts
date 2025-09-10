@@ -1,4 +1,3 @@
-// lib/l1-raw-stack.ts
 import { Stack, StackProps, CfnOutput } from 'aws-cdk-lib';
 import { Construct } from 'constructs';
 import { CfnRole } from 'aws-cdk-lib/aws-iam';
